@@ -6,10 +6,11 @@ This project is a simple implementation of the classic Tic-Tac-Toe game using Re
 
 In the project directory, you can run:
 
-### Create base repository for react with type-script  
+## Create base repository for react with type-script  
 `npx create-react-app tic-tac-toe  --template typescript`
 
-### `npm start`
+## How to run 
+`npm start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
