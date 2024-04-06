@@ -11,5 +11,5 @@ Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 
-##Snap of the game at winning instance
+## Snap of the game at winning instance
 <img width="1016" alt="image" src="https://github.com/shreyansh28801/Tic-Tac-Toe/assets/81692600/f9e1b07a-a072-43e0-a21d-2483914a6dd4">
